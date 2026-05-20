@@ -2,7 +2,7 @@
 
 Instituto Profesional Santo Tomás Iquique
 
-**Nombre:** Martín Obregón Díaz  
+**Nombre:** Martín Obregón Díaz - Alejandro Silva Puch   
 **Carrera:** Ingeniería en Informática  
 **Asignatura:** Ciberseguridad  
 
